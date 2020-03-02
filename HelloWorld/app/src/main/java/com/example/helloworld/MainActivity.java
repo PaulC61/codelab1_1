@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+        Log.i("MainActivity","Main activity layout is complete");
     }
 
     @Override
